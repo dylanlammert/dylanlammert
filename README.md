@@ -1,8 +1,10 @@
-# 👋 Hi There...
+# 👋 Hi, I'm Dylan and here is a little bit about me...
 
-- Hi, I'm Dylan
-- 👀 I’m interested in Full-Stack Development and Machine Learning
 - Student @Missouri State University
+### Fields of Interest
+* Full-Stack Dev
+* Mobile App Dev
+* Scalability
 - 📫 You can reach me @ dylanjlammert@gmail.com
 
 
